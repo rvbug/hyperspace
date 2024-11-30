@@ -1,1 +1,3 @@
 # hyperspace
+
+Personal finance tracker
